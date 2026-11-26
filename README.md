@@ -212,5 +212,3 @@ Skills: SQL · Power BI · Python · Excel
 
 ---
 
-## 👩‍💻 Author
-**Sumitha A M** , Aspiring Data Analyst | Cochin, Kerala
